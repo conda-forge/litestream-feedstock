@@ -1,5 +1,5 @@
 context:
-  version: "0.5.2"
+  version: "0.5.3"
 
 package:
   name: litestream
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/benbjohnson/litestream/archive/v${{ version }}.tar.gz
-  sha256: 52b3b31e1744c08c07cda2fef2ac1477bf4c1acb5b8da277a207575000d19824
+  sha256: 265cdbeb25f766915d77b01c956ecfe669f17389e3ae64b5fdf645b301531466
 
 build:
   number: 0
